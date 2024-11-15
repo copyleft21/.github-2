@@ -1,4 +1,4 @@
-cla:
+cla :
   description: This is a yml file to describe Microsoft Contributor License Agreement,
   content: |
     ### Contribution License Agreement

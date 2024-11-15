@@ -1,0 +1,8 @@
+{
+    "editor.renderControlCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.allowedLocales": {
+        "_vscode": false,
+        "_os": false
+    }
+}
